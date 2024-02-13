@@ -3,6 +3,7 @@
   "displayName": "SKILL_TAISUN",
   "description": "Extension Test For CADENCE SKILL Language",
   "version": "0.0.1",
+  "publisher": "TSONNE",
   "engines": {
     "vscode": "^1.86.0"
   },
