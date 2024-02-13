@@ -1,0 +1,11 @@
+{
+    "Procedure": {
+        "prefix":"procedure",
+        "body":[
+            "(procedure ${1:functionName}($2)",
+            "\t$3",
+            ")"
+        ],
+        "description": "Defines function"
+    }
+}
